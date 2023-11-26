@@ -1,0 +1,125 @@
+-- Female donors without university degrees
+Female|492||Business Development
+Female|483||Legal
+Female|482||Research and Development
+Female|480||Engineering
+Female|476||Product Management
+Female|473||Training
+Female|468||Engineering
+Female|468||Accounting
+Female|467||Business Development
+Female|462||Support
+Female|461||Research and Development
+Female|455||Marketing
+Female|453||Business Development
+Female|450||Human Resources
+Female|442||Business Development
+Female|436||Accounting
+Female|426||Support
+Female|424||Sales
+Female|423||Product Management
+Female|423||Marketing
+Female|422||Marketing
+Female|422||Training
+Female|420||Services
+Female|413||Training
+Female|408||Accounting
+Female|407||Services
+Female|405||Legal
+Female|405||Human Resources
+Female|399||Services
+Female|399||Research and Development
+Female|396||Sales
+Female|387||Support
+Female|387||Legal
+Female|365||Sales
+Female|365||Human Resources
+Female|361||Legal
+Female|359||Services
+Female|359||Human Resources
+Female|356||Research and Development
+Female|353||Human Resources
+Female|345||Sales
+Female|335||Legal
+Female|321||Support
+Female|307||Product Management
+Female|297||Training
+Female|297||Marketing
+Female|296||Accounting
+Female|287||Product Management
+Female|286||Accounting
+Female|284||Marketing
+Female|275||Sales
+Female|273||Sales
+Female|262||Training
+Female|261||Sales
+Female|252||Research and Development
+
+-- Male donors without university degreees
+Male|493||Business Development
+Male|488||Product Management
+Male|484||Sales
+Male|480||Human Resources
+Male|469||Research and Development
+Male|467||Legal
+Male|463||Engineering
+Male|462||Services
+Male|458||Marketing
+Male|452||Sales
+Male|449||Legal
+Male|446||Services
+Male|446||Accounting
+Male|442||Business Development
+Male|441||Support
+Male|426||Services
+Male|419||Research and Development
+Male|418||Support
+Male|414||Support
+Male|411||Support
+Male|411||Engineering
+Male|411||Marketing
+Male|410||Engineering
+Male|408||Human Resources
+Male|406||Accounting
+Male|402||Sales
+Male|400||Sales
+Male|400||Legal
+Male|399||Business Development
+Male|395||Product Management
+Male|388||Services
+Male|377||Support
+Male|372||Legal
+Male|368||Marketing
+Male|365||Services
+Male|363||Training
+Male|358||Business Development
+Male|354||Engineering
+Male|352||Product Management
+Male|350||Business Development
+Male|349||Training
+Male|347||Training
+Male|347||Human Resources
+Male|344||Accounting
+Male|341||Research and Development
+Male|321||Product Management
+Male|319||Accounting
+Male|319||Research and Development
+Male|314||Services
+Male|312||Human Resources
+Male|304||Sales
+Male|302||Support
+Male|299||Human Resources
+Male|299||Human Resources
+Male|296||Research and Development
+Male|286||Product Management
+Male|286||Business Development
+Male|283||Accounting
+Male|277||Business Development
+Male|270||Accounting
+Male|267||Product Management
+Male|266||Support
+Male|266||Human Resources
+Male|262||Product Management
+Male|261||Legal
+Male|259||Engineering
+Male|258||Engineering
