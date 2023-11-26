@@ -1,0 +1,12 @@
+292|Once|64586
+28|Weekly|59152
+178|Monthly|59680
+255|Yearly|65667
+
+The donation amount made ONCE is 292 with the total made so far been 64586
+
+The donation amount made WEEKLY is 28 with the total made so far been 59152
+
+The donation amount made MONTHLY is 178 with the total made so far been 59680
+
+The donation amount made YEARLY is 255 with the total made so far been 65667
