@@ -1,0 +1,6 @@
+Business Development|Once|31
+Business Development|Weekly|20
+Business Development|Monthly|16
+Business Development|Yearly|27
+
+Looking at the business development job field donation frequency table, it shows most of the donors donate once and a minority of the donors donate monthly
