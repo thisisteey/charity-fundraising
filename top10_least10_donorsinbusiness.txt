@@ -1,0 +1,23 @@
+-- The least ten donors in Business Development
+Female|6|Business Development|Yearly|Audi|Seeborne|Missouri
+Female|10|Business Development|Weekly|||Florida
+Female|15|Business Development|Monthly|Hyundai|Gethyn|Illinois
+Male|16|Business Development|Weekly|Kia|Havers|Kansas
+Male|19|Business Development|Weekly|Land Rover|Kincla|Michigan
+Female|22|Business Development|Once|Lexus|Cottrill|Mississippi
+Female|36|Business Development|Weekly|Mazda||Florida
+Female|38|Business Development|Once|Volvo|Yashaev|Kentucky
+Male|39|Business Development|Yearly|Volvo|Howden|California
+Female|40|Business Development|Weekly|Mitsubishi|Claasen|Florida
+
+-- The top ten donors in Business Development
+Male|493|Business Development|Yearly|Chevrolet||Louisiana
+Female|492|Business Development|Weekly|Ford||Florida
+Male|486|Business Development|Once|Ford|Brooke|Florida
+Male|482|Business Development|Yearly|Honda|Sodeau|Mississippi
+Male|482|Business Development|Weekly|Infiniti|Guerrier|Texas
+Male|472|Business Development|Yearly|Dodge|Jakubovicz|Georgia
+Male|468|Business Development|Once|Pontiac|Parkman|Nevada
+Female|467|Business Development|Once|Nissan||California
+Male|466|Business Development|Once|Suzuki|Losty|Massachusetts
+Female|465|Business Development|Once|Ford|Tayloe|Florida
