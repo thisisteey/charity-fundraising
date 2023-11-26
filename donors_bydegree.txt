@@ -1,0 +1,377 @@
+-- Female donors with university degrees
+Female|499|Sparhawk|Legal
+Female|499|Antoszewski|Sales
+Female|494|Coates|Product Management
+Female|492|Minthorpe|Training
+Female|491|Blackborn|Engineering
+Female|490|Heinert|Engineering
+Female|489|Fraser|Marketing
+Female|488|Turford|Research and Development
+Female|487|Forrington|Marketing
+Female|487|Deeks|Accounting
+Female|487|Wichard|Human Resources
+Female|487|Drewet|Services
+Female|486|Sackes|Marketing
+Female|483|Gorch|Product Management
+Female|482|Mellonby|Support
+Female|481|Khristoforov|Services
+Female|476|Royan|Human Resources
+Female|474|Damant|Accounting
+Female|473|Mundy|Support
+Female|465|Tayloe|Business Development
+Female|465|Rubert|Support
+Female|462|Ledrane|Product Management
+Female|462|Smethurst|Business Development
+Female|460|Gratten|Human Resources
+Female|458|Maric|Human Resources
+Female|456|Cadamy|Services
+Female|455|Mylchreest|Engineering
+Female|452|Enevoldsen|Accounting
+Female|451|Olive|Sales
+Female|451|Murrigans|Engineering
+Female|451|Chrippes|Business Development
+Female|450|Bertram|Research and Development
+Female|449|Markus|Legal
+Female|447|Meeny|Product Management
+Female|444|McAlindon|Accounting
+Female|444|Petticrow|Legal
+Female|442|Laughrey|Accounting
+Female|442|Josuweit|Training
+Female|440|Rudolf|Legal
+Female|440|Gronaller|Support
+Female|439|Ipsly|Accounting
+Female|439|Turmel|Legal
+Female|436|Hazelgreave|Marketing
+Female|436|Clowney|Engineering
+Female|435|Minci|Training
+Female|434|Thurgood|Product Management
+Female|433|Inger|Product Management
+Female|431|Scullard|Sales
+Female|431|Darton|Support
+Female|428|Anglish|Legal
+Female|428|Carrivick|Training
+Female|427|Renne|Accounting
+Female|423|Littlejohn|Marketing
+Female|423|Trehearn|Research and Development
+Female|422|Barham|Training
+Female|422|Pullar|Training
+Female|421|Effnert|Business Development
+Female|421|Finby|Sales
+Female|420|Chillingsworth|Marketing
+Female|420|Grasha|Marketing
+Female|420|Powling|Product Management
+Female|420|Brettell|Research and Development
+Female|418|Cluatt|Accounting
+Female|417|Hardacre|Accounting
+Female|417|Izatson|Support
+Female|409|Flanner|Engineering
+Female|400|Windless|Business Development
+Female|397|Flockhart|Engineering
+Female|394|Dexter|Marketing
+Female|393|Lacoste|Engineering
+Female|393|Uden|Research and Development
+Female|392|Lidster|Product Management
+Female|391|Lambert|Research and Development
+Female|391|Swaddle|Marketing
+Female|389|Roose|Legal
+Female|388|Kitcher|Human Resources
+Female|387|Aish|Engineering
+Female|387|Brotheridge|Product Management
+Female|386|Stud|Research and Development
+Female|385|Mansell|Sales
+Female|384|Matas|Marketing
+Female|383|Plowman|Sales
+Female|380|Chretien|Human Resources
+Female|379|Tansly|Engineering
+Female|378|Tadgell|Legal
+Female|375|Kreber|Engineering
+Female|372|Courtenay|Engineering
+Female|371|Burnage|Accounting
+Female|370|Holsey|Training
+Female|369|Renshall|Research and Development
+Female|369|Angood|Accounting
+Female|368|Wyss|Support
+Female|364|Abthorpe|Human Resources
+Female|364|Skiplorne|Accounting
+Female|364|Fidgin|Business Development
+Female|362|Antonin|Business Development
+Female|358|Eddington|Services
+Female|355|McNish|Services
+Female|355|Mitrikhin|Human Resources
+Female|351|Wheal|Product Management
+Female|351|Parkman|Product Management
+Female|349|Lethabridge|Accounting
+Female|349|Reditt|Accounting
+Female|348|Gritskov|Support
+Female|348|Allflatt|Sales
+Female|347|Franceschi|Research and Development
+Female|345|Tomaszynski|Support
+Female|342|Hoffmann|Human Resources
+Female|342|Comiam|Training
+Female|340|Silverstone|Engineering
+Female|338|Shadbolt|Legal
+Female|337|MacAindreis|Marketing
+Female|335|Leaf|Engineering
+Female|334|Crippill|Support
+Female|334|Whellams|Human Resources
+Female|334|Blackbourn|Marketing
+Female|334|Crunkhurn|Training
+Female|332|Parzis|Engineering
+Female|329|Gavin|Sales
+Female|328|Elleton|Research and Development
+Female|324|Broster|Legal
+Female|323|Taffley|Sales
+Female|323|Matusovsky|Sales
+Female|322|Harraway|Support
+Female|321|Roads|Marketing
+Female|321|Birbeck|Accounting
+Female|320|D'Acth|Research and Development
+Female|320|Allmann|Human Resources
+Female|317|Winger|Training
+Female|317|Albutt|Services
+Female|315|Athersmith|Sales
+Female|314|O'Caine|Accounting
+Female|313|McLenahan|Training
+Female|312|Kippie|Business Development
+Female|310|Scocroft|Sales
+Female|310|Agastina|Engineering
+Female|309|Madgwick|Marketing
+Female|309|Askell|Research and Development
+Female|303|Bouch|Legal
+Female|299|Panks|Legal
+Female|299|Trimming|Training
+Female|296|Cowdroy|Research and Development
+Female|296|Burnip|Services
+Female|296|Capelen|Engineering
+Female|292|Featherstonhaugh|Engineering
+Female|292|Draisey|Legal
+Female|290|Perrygo|Sales
+Female|287|Serjeantson|Engineering
+Female|287|Litchfield|Human Resources
+Female|287|Disbrow|Services
+Female|286|Mallock|Training
+Female|285|Strathern|Engineering
+Female|283|Tedridge|Support
+Female|281|Ferns|Human Resources
+Female|280|Harle|Business Development
+Female|275|Bennike|Sales
+Female|274|Cronkshaw|Training
+Female|273|Sturdey|Research and Development
+Female|273|Goodey|Research and Development
+Female|272|Eldrett|Sales
+Female|271|Blaiklock|Services
+Female|270|Krink|Accounting
+Female|270|Hornung|Engineering
+Female|269|Castle|Services
+Female|268|Lengthorn|Training
+Female|265|Muttock|Engineering
+Female|263|Muris|Research and Development
+Female|261|O'Keaveny|Marketing
+Female|261|Leathe|Research and Development
+Female|259|Stathor|Accounting
+Female|257|Hutten|Research and Development
+Female|256|Sterley|Training
+Female|256|Bassom|Research and Development
+Female|256|Titterton|Support
+Female|255|Hanretty|Legal
+Female|254|Albrighton|Human Resources
+Female|252|D'Alesio|Accounting
+Female|251|MacQuist|Research and Development
+Female|251|Baddeley|Services
+Female|250|Verissimo|Support
+
+-- Male donors with university degrees
+Male|500|Walasik|Support
+Male|500|Leithgoe|Product Management
+Male|498|Trotton|Sales
+Male|497|Rockcliffe|Research and Development
+Male|494|Cominetti|Support
+Male|494|Baumber|Human Resources
+Male|493|Armatidge|Product Management
+Male|491|McIlmorow|Training
+Male|489|Menci|Training
+Male|489|Blythin|Engineering
+Male|487|Naerup|Services
+Male|486|Brooke|Business Development
+Male|484|Grimoldby|Engineering
+Male|484|Laugharne|Training
+Male|482|Ellerey|Training
+Male|482|Gunby|Product Management
+Male|482|Tew|Human Resources
+Male|482|Sodeau|Business Development
+Male|482|Guerrier|Business Development
+Male|482|Baford|Sales
+Male|479|Shallcross|Research and Development
+Male|478|Pardoe|Services
+Male|477|Lowis|Marketing
+Male|474|Finlayson|Engineering
+Male|472|Jakubovicz|Business Development
+Male|472|Scraney|Sales
+Male|470|Thams|Product Management
+Male|468|Gorler|Legal
+Male|468|Parkman|Business Development
+Male|466|Losty|Business Development
+Male|466|Hunting|Training
+Male|465|Burehill|Services
+Male|465|Morhall|Research and Development
+Male|461|Foffano|Research and Development
+Male|461|Dartnall|Business Development
+Male|460|Owtram|Product Management
+Male|460|Bushill|Product Management
+Male|460|Daughtery|Training
+Male|459|Cropton|Human Resources
+Male|458|Mallall|Support
+Male|457|McKall|Research and Development
+Male|455|Trays|Training
+Male|452|McGlashan|Services
+Male|451|Blount|Accounting
+Male|451|Dinneen|Product Management
+Male|450|Ambrosch|Human Resources
+Male|447|Devlin|Research and Development
+Male|447|Zecchetti|Support
+Male|444|Edgeler|Services
+Male|444|Douglass|Training
+Male|442|Layfield|Research and Development
+Male|441|Barnes|Human Resources
+Male|439|Botte|Accounting
+Male|437|Blackford|Training
+Male|436|Cobbold|Marketing
+Male|436|Finey|Support
+Male|435|Brabon|Training
+Male|434|Mines|Human Resources
+Male|433|Oxherd|Sales
+Male|430|Pear|Sales
+Male|428|Ellacott|Business Development
+Male|427|Georgi|Product Management
+Male|427|Statton|Research and Development
+Male|423|Nolot|Accounting
+Male|421|Greenlees|Support
+Male|419|Tranmer|Accounting
+Male|417|O'Flannery|Accounting
+Male|417|Bensusan|Legal
+Male|416|Messent|Human Resources
+Male|415|Lennon|Business Development
+Male|414|Micklem|Research and Development
+Male|411|Domenichelli|Human Resources
+Male|411|Ackeroyd|Sales
+Male|409|Alyokhin|Product Management
+Male|409|Andreolli|Product Management
+Male|409|Luppitt|Research and Development
+Male|409|Dulanty|Support
+Male|408|Gubbin|Product Management
+Male|408|O'Lehane|Engineering
+Male|401|Casella|Research and Development
+Male|400|Carillo|Services
+Male|400|Rowswell|Sales
+Male|398|Pitfield|Services
+Male|397|Austen|Training
+Male|396|Twelvetrees|Marketing
+Male|395|Adamthwaite|Human Resources
+Male|393|Elliman|Business Development
+Male|391|Lethley|Services
+Male|391|Holbie|Marketing
+Male|390|Roycroft|Support
+Male|389|Gibbens|Services
+Male|387|Flucks|Services
+Male|387|Kenworthey|Legal
+Male|386|Elger|Services
+Male|382|Okeshott|Marketing
+Male|382|Willshee|Support
+Male|382|Nathan|Accounting
+Male|378|Mingauld|Research and Development
+Male|376|Grabeham|Business Development
+Male|375|Harget|Research and Development
+Male|375|Willmer|Support
+Male|373|Slyman|Legal
+Male|369|Savil|Training
+Male|369|Wofenden|Product Management
+Male|368|Brewin|Marketing
+Male|367|Sacaze|Engineering
+Male|365|Pounder|Business Development
+Male|364|Barniss|Legal
+Male|363|Tring|Human Resources
+Male|363|Tytler|Human Resources
+Male|358|Lyddiard|Product Management
+Male|356|Browett|Marketing
+Male|355|Whiffin|Business Development
+Male|355|Shird|Accounting
+Male|354|Deniseau|Sales
+Male|353|Tuckett|Legal
+Male|351|Puig|Services
+Male|350|Janeczek|Training
+Male|348|Lavalle|Human Resources
+Male|346|Santhouse|Product Management
+Male|345|Cordrey|Engineering
+Male|344|Bell|Product Management
+Male|343|Jellett|Training
+Male|343|Berthot|Training
+Male|341|Ennion|Research and Development
+Male|339|Proschke|Product Management
+Male|338|Kopec|Human Resources
+Male|337|Hellen|Accounting
+Male|335|Kaye|Marketing
+Male|332|Janouch|Research and Development
+Male|328|Worssam|Product Management
+Male|327|Winckworth|Human Resources
+Male|327|Curragh|Engineering
+Male|327|Gosart|Support
+Male|326|Gedney|Research and Development
+Male|326|Veysey|Research and Development
+Male|325|Wraight|Training
+Male|324|Karpushkin|Marketing
+Male|324|Parriss|Marketing
+Male|321|Roddell|Research and Development
+Male|320|Kernock|Research and Development
+Male|320|Fencott|Legal
+Male|319|Coetzee|Services
+Male|319|Vedstra|Support
+Male|317|Biddlecombe|Services
+Male|316|Boylin|Research and Development
+Male|315|Giorgiutti|Accounting
+Male|309|Haskayne|Human Resources
+Male|307|Vero|Sales
+Male|307|Vida|Human Resources
+Male|305|Pead|Engineering
+Male|304|Twamley|Training
+Male|303|Casserley|Engineering
+Male|301|Mutimer|Human Resources
+Male|300|Sharma|Research and Development
+Male|297|Weeden|Marketing
+Male|295|Feehely|Training
+Male|295|Highnam|Research and Development
+Male|292|Ferrelli|Human Resources
+Male|291|Biskup|Accounting
+Male|285|Peaker|Human Resources
+Male|283|Raubenheimer|Marketing
+Male|282|Gaunt|Engineering
+Male|282|Lavin|Engineering
+Male|281|Crilley|Training
+Male|280|Blanden|Engineering
+Male|279|Harflete|Product Management
+Male|279|Le Provost|Product Management
+Male|279|Grindle|Sales
+Male|278|Readhead|Services
+Male|278|Higginbottam|Product Management
+Male|277|Wolvey|Accounting
+Male|277|Drackford|Engineering
+Male|274|Strathern|Business Development
+Male|274|Osgar|Services
+Male|273|Tempest|Services
+Male|272|Lymbourne|Services
+Male|270|Verne|Legal
+Male|269|Jovicevic|Services
+Male|268|Jerwood|Research and Development
+Male|265|Scholey|Business Development
+Male|262|Rousel|Product Management
+Male|262|Rhydderch|Product Management
+Male|260|Karpenko|Accounting
+Male|260|Koeppe|Services
+Male|260|Perrington|Legal
+Male|259|Aylesbury|Support
+Male|258|Di Matteo|Sales
+Male|255|Clayal|Marketing
+Male|254|McGovern|Business Development
+Male|254|Lister|Engineering
+Male|253|Deeson|Legal
+Male|251|Cummings|Human Resources
+Male|251|Hiscoe|Support
