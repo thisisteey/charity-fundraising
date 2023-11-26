@@ -1,0 +1,13 @@
+ROOT CAUSE ANALYSIS
+The business problem of the charity Education for All is the charity growing in terms of donors, increase in funds from donors and increase in the donation frequency from donors. Hence, in two weeks myself and the fundraising team must find a way to increase the number of donors, as well as increase the donation from donors already in the database and those coming into the database. We must also find a way to increase the donation frequency of existing and incoming donors.
+Looking at the donor and donation data existing in the database, I had to ask some key questions, thereby analysing the data using the questions and doing a visual analysis of the data.
+After thoroughly getting insights from the questions asked, I used root cause analysis to ask the following:
+• Why are there not enough donations for the charity and regular donation in the charity?
+A: because there are not enough donors for the charity.
+• Why don’t we have enough donors in the charity? A: because majority of donors are from some job fields and state?
+• Why are majority of donors in particular job fields and state?
+A: because some states have not or barely heard of the charity?
+• Why is it that some states have not or barely heard of the charity?
+A: because we don’t have a record of how our donors got to know about the charity
+• Why don’t we have a record of how the donors got to know about the charity?
+A: because the product management team does not ask the donors how they got to know or hear about the charity.

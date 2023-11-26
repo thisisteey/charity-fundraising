@@ -1,0 +1,21 @@
+ANALYSIS INSIGHTS
+To solve the business problem, the following datasets were presented to me EFO_Donation_Data and EFO_Donor_Data. SQLite Database Management System was used to query and analyse the datasets. Also, Tableau was used to visually represent the analysed data.
+The data in the datasets includes the following:
+EFO_Donation_Data:
+• id
+• first_name
+• last_name
+• email
+• gender
+• job_field
+• donation
+• state
+• shirt_size
+EFO_Donor_Data
+• id
+• donation_frequency
+• university
+• car
+• second_language
+• favourite_colour
+• movie_genre
