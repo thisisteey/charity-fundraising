@@ -1,0 +1,15 @@
+1000
+249085
+500
+5
+249.09
+
+The total number of donors in the database is 1000.
+
+The sum of all donations in the database is 249085
+
+The maximum donation received by the charity is 500
+
+The minimum donation received by the charity is 5
+
+The average donation recceived by the charity is 249.09
