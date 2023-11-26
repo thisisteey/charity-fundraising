@@ -1,0 +1,14 @@
+Human Resources|23060
+Research and Development|22862
+Product Management|22798
+Business Development|22266
+Engineering|21968
+Training|21721
+Accounting|20504
+Services|19858
+Support|19475
+Sales|19009
+Marketing|18255
+Legal|17309
+
+Looking at the total amount donated across all job fields reveals that, despite having the most donors, Business Development does not have the most donations.
