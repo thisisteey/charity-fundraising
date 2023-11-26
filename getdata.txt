@@ -1,3 +1,4 @@
+--- The donation_data databsse
 1|Nefen|Rogerson|nrogerson0@tumblr.com|Male|Human Resources|28|Colorado|3XL
 2|Kippar|Saffin|ksaffin1@si.edu|Male|Human Resources|292|California|2XL
 3|Panchito|Crichley|pcrichley2@wired.com|Female|Engineering|178|California|XL
@@ -998,6 +999,8 @@
 998|Erinna|Ghilardini|eghilardinirp@ovh.net|Female|Sales|105|Florida|XS
 999|Inga|Dragon|idragonrq@bloomberg.com|Female|Research and Development|165|Virginia|XS
 1000|Kellina|Eastcourt|keastcourtrr@mapy.cz|Female|Support|482|Massachusetts|3XL
+
+--- The donor_data database
 1|Weekly|McSparran|GMC||Teal|Comedy|Drama|Musical
 2|Once|Ferrelli|Chrysler|Pashto|Green|Drama
 3|Monthly|Ragsdall|Ford||Yellow|Comedy|Romance
