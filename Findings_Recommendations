@@ -1,0 +1,24 @@
+-- FINDINGS AND RECOMMENDATIONS
+
+Following the analysis carried out on the Donation and Donor datasets, the following was found out:
+▪ The total number of donors is 1000.
+▪ The sum donations are $249085.
+▪ The maximum amount of donation is $500.
+▪ The minimum amount of donation is $5.
+▪ The average donation rounded to 2 decimal places is $249.09.
+
+I found out the sum of donations and number of donations in each donation frequency.
+
+It is evident that in the database, there are only 753 active donors out of the 1000 donors recorded. Hence, 247 donors don’t donate. With this, the 247 non-active donors should be sensitised and encouraged to donate. Evidently, it shows that donors who donate once are most of the active donors but don’t make up the highest number of donations; hence, they should be encouraged to donate more.
+
+Most states have extremely few donors, since just three states have more than 80 donors. So, to grow donations, we should concentrate on attracting donations from the states above as well as expanding their donor base in other states.
+
+It shows that 180 females and 194 males donate between $250 and $500, which is above the average donation value. However, this shows that just 37.4% of the total donors have a university degree and donate above the average donation value.
+
+It shows 55 Females and 67 Males without university degree donate above the average donation value which is between $250 and $500. This makes up 12.2% of the total donors. This denotes that the individuals without university degree should be sensitised to donate more.
+
+7 of all the job fields have more than 80 donors, while Business Development has the highest number with 94 individuals. Hence, other job fields should be thoroughly enlightened to increase the number of donors in those job fields.
+
+Looking at the business development job field donation frequency, it shows most of the donors donate once and a minority of the donors donate monthly. Therefore, it is advised that donors be encouraged to donate much more frequently than once.
+
+Looking at the total amount donated across all job fields reveals that, despite having the most donors, Business Development does not have the most donations. This suggests that donors should be encouraged to raise the value of their donations in Business Development and other job fields
